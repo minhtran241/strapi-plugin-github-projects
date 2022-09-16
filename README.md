@@ -20,3 +20,7 @@ The generated API key must then be set up for your Strapi app as an environment 
 ## Disclaimer
 
 I am not endorsed or affiliate in any way with Strapi nor with Github. The names and/or logos of such third-parties are or may be used just to describe the functionality of this plugin.
+
+## Learn more
+
+Learn more about the `@minhtrn/strapi-plugin-github-projects` package [on NPM](https://www.npmjs.com/package/@minhtrn/strapi-plugin-github-projects).
