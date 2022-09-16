@@ -6,10 +6,10 @@ This plugin allows to automatically generate "Projects" from public Github repos
 
 ```bash
 # yarn
-yarn add @minhtran/strapi-plugin-github-projects
+yarn add @minhtrn/strapi-plugin-github-projects
 
 # npm
-npm i @minhtran/strapi-plugin-github-projects
+npm i @minhtrn/strapi-plugin-github-projects
 ```
 
 ## Initial configuration
