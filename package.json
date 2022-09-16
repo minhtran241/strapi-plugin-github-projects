@@ -1,5 +1,5 @@
 {
-	"name": "@minhtrn/strapi-lugin-github-projects",
+	"name": "@minhtrn/strapi-plugin-github-projects",
 	"version": "1.0.3",
 	"description": "This is the description of the plugin.",
 	"strapi": {
