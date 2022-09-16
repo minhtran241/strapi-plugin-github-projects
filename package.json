@@ -1,29 +1,32 @@
 {
-  "name": "github-projects",
-  "version": "0.0.0",
-  "description": "This is the description of the plugin.",
-  "strapi": {
-    "name": "Github Projects",
-    "description": "A Strapi plugin that allows to generate projects from GitHub repositories",
-    "kind": "plugin",
-    "displayName": "Github Projects"
-  },
-  "dependencies": {
-    "@octokit/request": "^6.2.1",
-    "axios": "^0.27.2",
-    "markdown-it": "^13.0.1"
-  },
-  "author": {
-    "name": "A Strapi developer"
-  },
-  "maintainers": [
-    {
-      "name": "A Strapi developer"
-    }
-  ],
-  "engines": {
-    "node": ">=14.19.1 <=16.x.x",
-    "npm": ">=6.0.0"
-  },
-  "license": "MIT"
+	"name": "github-projects",
+	"version": "0.0.0",
+	"description": "This is the description of the plugin.",
+	"strapi": {
+		"name": "Github Projects",
+		"description": "A Strapi plugin that allows to generate projects from GitHub repositories",
+		"kind": "plugin",
+		"displayName": "Github Projects"
+	},
+	"dependencies": {
+		"@octokit/request": "^6.2.1",
+		"axios": "^0.27.2",
+		"markdown-it": "^13.0.1"
+	},
+	"peerDependencies": {
+		"@strapi/strapi": "*"
+	},
+	"author": {
+		"name": "A Strapi developer"
+	},
+	"maintainers": [
+		{
+			"name": "A Strapi developer"
+		}
+	],
+	"engines": {
+		"node": ">=14.19.1 <=16.x.x",
+		"npm": ">=6.0.0"
+	},
+	"license": "MIT"
 }
