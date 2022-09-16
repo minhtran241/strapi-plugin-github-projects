@@ -6,7 +6,7 @@
 		"name": "Github Projects",
 		"description": "A Strapi plugin that allows to generate projects from GitHub repositories",
 		"kind": "plugin",
-		"displayName": "Github Projects"
+		"displayName": "github-projects"
 	},
 	"dependencies": {
 		"@octokit/request": "^6.2.1",
