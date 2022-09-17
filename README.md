@@ -25,3 +25,5 @@ I am not endorsed or affiliate in any way with Strapi nor with Github. The names
 ## Learn more 🚀
 
 Learn more about the `@minhtrn/strapi-plugin-github-projects` package [on NPM](https://www.npmjs.com/package/@minhtrn/strapi-plugin-github-projects).
+
+<img src="https://github.com/minhtran241/strapi-plugin-github-projects/blob/main/npm.png">
