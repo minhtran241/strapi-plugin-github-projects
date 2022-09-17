@@ -1,3 +1,4 @@
+# `@minhtrn/strapi-plugin-github-projects`
 # "Github Projects" - plugin for Strapi 4 🚀
 
 This plugin allows to automatically generate "Projects" from public Github repositories, meant to be then exposed via a public API, e.g. to be shown on a front-end application with the aim to showcase a developer's portfolio.
